@@ -1,0 +1,54 @@
+{
+    "authors": [
+        {
+            "id": 1,
+            "name": "J.K. Rowling",
+            "age": 57,
+            "nationality": "British"
+        },
+        {
+            "id": 2,
+            "name": "Stephen King",
+            "age": 77,
+            "nationality": "American"
+        },
+        {
+            "id": 3,
+            "name": "F. Scott Fitzgerald",
+            "age": 44,
+            "nationality": "American"
+        }
+    ],
+    "books": [
+        {
+            "title": "Harry Potter and the Philosopher's Stone",
+            "publicationYear": 1997,
+            "genre": "Fantasy",
+            "author_id": 1
+        },
+        {
+            "title": "Harry Potter and the Chamber of Secrets",
+            "publicationYear": 1998,
+            "genre": "Adventure",
+            "author_id": 1
+        },
+        {
+            "title": "The Shining",
+            "publicationYear": 1977,
+            "genre": "Horror",
+            "author_id": 2
+        },
+        {
+            "title": "It",
+            "publicationYear": 1986,
+            "genre": "Horror",
+            "author_id": 2
+        },
+        {
+            "title": "The Great Gatsby",
+            "publicationYear": 1925,
+            "genre": "Tragedy",
+            "author_id": 3
+        }
+    ]
+}
